@@ -1,0 +1,6 @@
+with open('account.txt', mode='w') as my_file:
+    my_file.write('001 Daniel 20\n')
+    my_file.write('002 Esther 24\n')
+    my_file.write('003 Grace 26\n')
+    my_file.write('004 Seyi 30\n')
+    my_file.write('005 Laflare 40\n')
